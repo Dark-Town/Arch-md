@@ -10,9 +10,9 @@ require('dotenv').config();
 
 //================= { SETTINGS } =================\\
 global.prefix = process.env.PREFIX || "."; // your desired prefix symbol only
-global.owner = process.env.OWNER_NUMBER || "2347036214381"; // owner number 
+global.owner = process.env.OWNER_NUMBER || "263788533181"; // owner number 
 global.sudo = process.env.SUDO  || " ";
-global.ownername = process.env.OWNER_NAME || "Ednut"; //set bot owner name here 
+global.ownername = process.env.OWNER_NAME || "TCRONEB HACKX"; //set bot owner name here 
 global.botname = process.env.BOT_NAME || "αrch md";
 global.author = process.env.AUTHOR  || "Ednut";
 global.packname = process.env.PACK_NAME  || "Arch Md ²⁵";
@@ -20,14 +20,14 @@ global.thumb = process.env.THUMB_IMAGE || 'https://files.catbox.moe/1uhvld.jpg';
 global.footer = process.env.FOOTER || '🤖 © wa bot';
 global.onlypc = process.env.ONLYPC_MSG  || "Sorry buddy the bot won't work directly in group chat to reduce spam use in private chat";
 global.onlygc = process.env.ONLYGC_MSG  || "Sorry buddy the bot won't work directly in private chat to reduce spam use in group";
-global.session = process.env.SESSION_ID || "";
+global.session = process.env.SESSION_ID || "Arch_afec5811b1a6ee9688f1f6117b5565a8";
 global.simbol = process.env.SYMBOL || '♘';
 global.menutype = process.env.MENU_TYPE  || "v2";
 global.warn = process.env.WARN || "3";
-global.goodbye = process.env.GOODBYE === 'false';
-global.welcome = process.env.WELCOME === 'false';
-global.timezone = process.env.TIME_ZONE || "Africa/Lagos";
-global.startup = process.env.START_MSG === 'false';
+global.goodbye = process.env.GOODBYE === 'true';
+global.welcome = process.env.WELCOME === 'true';
+global.timezone = process.env.TIME_ZONE || "Africa/Zimbabwe";
+global.startup = process.env.START_MSG === 'true';
 global.scan = 'https://arch-session.onrender.com';
 global.api = '';
 
