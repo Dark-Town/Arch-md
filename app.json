@@ -18,17 +18,17 @@
     },
     "THUMB_IMAGE": {
       "description": "This image will show when you used a v1/v3 menu you can get your image url from catbox",
-      "value": "https://files.catbox.moe/1uhvld.jpg",
+      "value": "https://i.ibb.co/HTrS1HYv/beee.jpg",
       "required": false
     },
     "OWNER_NAME": {
       "description": "put your bot owner nane here",
-      "value": "Ednut",
+      "value": "TCRONEB HACKX",
       "required": false
     },
     "TIME_ZONE": {
       "description": "set your desired timezone continuent follow by your city mistake might cause error in console or crash the bot",
-      "value": "Africa/Lagos",
+      "value": "Africa/Zimbabwe",
       "required": false
     },
     "MENU_TYPE": {
@@ -43,7 +43,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + \",\").",
-      "value": "2347036214381",
+      "value": "263788533181",
       "required": false
     },
     "WARN": {
@@ -64,7 +64,7 @@
     "ONLYPC_MSG": {
       "description": "set your desire message when the bot mode is set to only private chat",
       "value": "",
-      "required": false
+      "required": true
     }
   },
 "buildpacks": [
